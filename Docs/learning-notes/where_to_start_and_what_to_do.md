@@ -3,47 +3,34 @@ OVRSR Project Mentoring Plan
 Vision
 
 Build a professional embedded system around Raspberry Pi 5 + Engine
-
 ESP32 + Body ESP32 while learning embedded software engineering and
-
 producing portfolio-quality work.
 
 Principles
 
 \- Real product mindset
-
 \- Documentation is part of Definition of Done
-
 \- Modular architecture
-
 \- Architecture decisions documented (ADR)
-
 \- Code reviews
-
 \- Git workflow
-
 \- Learn hardware, Arduino abstraction and ESP-IDF concepts
 
 Documentation
 
 \- README
-
 \- Architecture
-
+  Title:
+  Decision:
+  Alternatives:
+  Reason:
 \- Specifications
-
 \- ADR
-
 \- Developer Guide
-
 \- Operations/Runbook
-
 \- Reference
-
 \- Hardware
-
 \- Learning Notes
-
 \- Development Log
 
 Learning Flow
